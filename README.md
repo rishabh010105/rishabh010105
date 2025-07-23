@@ -60,11 +60,11 @@ Here are some ideas to get you started:
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [💖 Heart Disease Prediction](https://github.com/rishabh010105/Heart-Disease-Prediction-Django) | ML-powered web app to predict heart disease | Django, ML, scikit-learn |
-| [📊 House Price Prediction](https://github.com/rishabh010105/House-Price-Prediction) | ML regression model to estimate house prices | Python, Pandas, XGBoost |
-| [🎬 Movie Recommender System](https://github.com/rishabh010105/Movie-Recommendation-System) | Content & collaborative filtering model | Python, NLP |
-| [✅ To-Do List App](https://github.com/rishabh010105/OASIS-ToDo-List) | Interactive task management tool | HTML, CSS, JS |
-| [🔒 Login Auth System](https://github.com/rishabh010105/Login-Authentication-System) | Secure login/logout system | HTML, CSS, JS |
+| [💖 Heart Disease Prediction](https://github.com/rishabh010105/heart-disease) | ML-powered web app to predict heart disease | Django, ML, scikit-learn |
+| [📊 House Price Prediction](https://github.com/rishabh010105/House_Price_Prediction) | ML regression model to estimate house prices | Python, Pandas, XGBoost |
+| [🎬 Movie Recommender System](https://github.com/rishabh010105/Movie-Recommendation) | Content & collaborative filtering model | Python, NLP |
+| [✅ To-Do List App](https://github.com/rishabh010105/Oasis-ToDo-List) | Interactive task management tool | HTML, CSS, JS |
+| [🔒 Login Auth System](https://github.com/rishabh010105/oasis-login_project) | Secure login/logout system | HTML, CSS, JS |
 
 ---
 
